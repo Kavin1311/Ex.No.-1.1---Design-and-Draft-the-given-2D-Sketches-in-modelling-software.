@@ -1,3 +1,6 @@
+# NAME:T.KAVINAJAI
+# REGISTER NO:212223100020
+
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -42,6 +45,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+<img width="667" height="935" alt="image" src="https://github.com/user-attachments/assets/09a01fad-561d-4ad1-8d9e-1a5899faf69c" />
 
 
 ## RESULT
